@@ -8,5 +8,5 @@ import javascript
 
 
 from Function test
-where test.getName(pressActionKey)
+where test.getName(pressActionKey())
 select test, "has function called pressActionKey"
